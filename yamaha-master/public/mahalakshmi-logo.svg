@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mahalakshmi Motorrad</title>
+  <desc id="desc">Winged M Mahalaksmi Motorrad logo</desc>
+  <g fill="none" stroke="#fff" stroke-width="12" stroke-linejoin="round">
+    <path fill="#fff" stroke="none" d="M365 44 270 118 208 78 246 154 208 198 304 136 365 190 426 136 522 198 484 154 522 78 460 118Z"/>
+    <circle cx="365" cy="137" r="55"/>
+    <path fill="#fff" d="m330 112 35 34 35-34v62l-18-15-17 16-17-16-18 15Z"/>
+    <path fill="#fff" stroke="none" d="M246 104 95 29l27 49 101 55-83-35 25 42 82 29-65-18 27 39 70 16-55-3 28 35 58 3-48 11 31 29 52-10 18-31-58-30-35-38 46-28Z M484 104 635 29l-27 49-101 55 83-35-25 42-82 29 65-18-27 39-70 16 55-3-28 35-58 3 48 11-31 29-52-10-18-31 58-30 35-38-46-28Z"/>
+  </g>
+  <text x="365" y="245" fill="#fff" font-family="Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="8" text-anchor="middle">MAHALAKSHMI</text>
+  <text x="365" y="285" fill="#fff" font-family="Arial, sans-serif" font-size="23" letter-spacing="12" text-anchor="middle">MOTORRAD</text>
+</svg>
